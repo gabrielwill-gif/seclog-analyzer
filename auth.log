@@ -1,0 +1,25 @@
+Nov 13 01:58:10 srv01 sshd[1000]: Accepted publickey for gabriel from 192.0.2.10 port 51022 ssh2
+Nov 13 02:14:00 srv01 sshd[1001]: Failed password for root from 203.0.113.5 port 40000 ssh2
+Nov 13 02:14:04 srv01 sshd[1002]: Failed password for invalid user admin from 203.0.113.5 port 40001 ssh2
+Nov 13 02:14:08 srv01 sshd[1003]: Failed password for invalid user test from 203.0.113.5 port 40002 ssh2
+Nov 13 02:14:12 srv01 sshd[1004]: Failed password for invalid user ubuntu from 203.0.113.5 port 40003 ssh2
+Nov 13 02:14:16 srv01 sshd[1005]: Failed password for invalid user oracle from 203.0.113.5 port 40004 ssh2
+Nov 13 02:14:20 srv01 sshd[1006]: Failed password for invalid user postgres from 203.0.113.5 port 40005 ssh2
+Nov 13 02:14:24 srv01 sshd[1007]: Failed password for invalid user user from 203.0.113.5 port 40006 ssh2
+Nov 13 02:14:28 srv01 sshd[1008]: Failed password for invalid user ftp from 203.0.113.5 port 40007 ssh2
+Nov 13 02:14:32 srv01 sshd[1009]: Failed password for invalid user git from 203.0.113.5 port 40008 ssh2
+Nov 13 02:14:36 srv01 sshd[1010]: Failed password for invalid user pi from 203.0.113.5 port 40009 ssh2
+Nov 13 02:14:40 srv01 sshd[1011]: Failed password for root from 203.0.113.5 port 40010 ssh2
+Nov 13 02:14:44 srv01 sshd[1012]: Failed password for invalid user admin from 203.0.113.5 port 40011 ssh2
+Nov 13 03:30:00 srv01 sshd[1013]: Failed password for deploy from 198.51.100.7 port 50000 ssh2
+Nov 13 03:30:05 srv01 sshd[1014]: Failed password for deploy from 198.51.100.7 port 50001 ssh2
+Nov 13 03:30:10 srv01 sshd[1015]: Failed password for deploy from 198.51.100.7 port 50002 ssh2
+Nov 13 03:30:15 srv01 sshd[1016]: Failed password for deploy from 198.51.100.7 port 50003 ssh2
+Nov 13 03:30:20 srv01 sshd[1017]: Failed password for deploy from 198.51.100.7 port 50004 ssh2
+Nov 13 03:30:25 srv01 sshd[1018]: Failed password for deploy from 198.51.100.7 port 50005 ssh2
+Nov 13 03:30:30 srv01 sshd[1019]: Failed password for deploy from 198.51.100.7 port 50006 ssh2
+Nov 13 03:30:35 srv01 sshd[1020]: Failed password for deploy from 198.51.100.7 port 50007 ssh2
+Nov 13 03:31:05 srv01 sshd[1021]: Accepted password for deploy from 198.51.100.7 port 50099 ssh2
+Nov 13 09:12:44 srv01 sshd[1022]: Failed password for gabriel from 192.0.2.10 port 51500 ssh2
+Nov 13 09:12:50 srv01 sshd[1023]: Accepted publickey for gabriel from 192.0.2.10 port 51501 ssh2
+Nov 13 10:00:00 srv01 sshd[1024]: pam_unix(sshd:session): session opened for user gabriel
